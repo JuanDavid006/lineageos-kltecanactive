@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <plurals name="notification_new_message">
+        <item quantity="zero">%d negeseuon newydd</item>
+        <item quantity="one">Neges newydd</item>
+        <item quantity="two">%d neges newydd</item>
+        <item quantity="few">%d neges newydd</item>
+        <item quantity="many">%d neges newydd</item>
+        <item quantity="other">%d neges newydd</item>
+    </plurals>
+    <string name="action_play">Chwarae</string>
+    <string name="action_mark_as_read">Nodi Fel Wedi\'i Darllen</string>
+    <string name="action_repeat">Ailadrodd</string>
+    <string name="action_reply">Ateb</string>
+    <string name="action_stop">Stopio</string>
+    <string name="action_close_messages">Cau</string>
+    <string name="auto_reply_failed_message">Methu anfon ateb. Rho gynnig arall arni.</string>
+    <string name="auto_reply_device_disconnected">Methu anfon ateb. Dyfais heb ei chysylltu.</string>
+    <string name="tts_sender_says">Mae %s yn dweud</string>
+    <string name="tts_failed_toast">Methu darllen y neges allan</string>
+    <string name="reply_message_display_template">\"%s\"</string>
+    <string name="message_sent_notice">Anfonwyd ateb at %s</string>
+    <string name="name_not_available">Enw dim ar gael</string>
+</resources>

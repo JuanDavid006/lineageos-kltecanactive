@@ -1,0 +1,13 @@
+
+
+android_app {
+    name: "ConfURIDialer",
+
+    srcs: ["**/*.java"],
+
+    platform_apis: true,
+
+    certificate: "platform",
+
+    system_ext_specific: true
+}

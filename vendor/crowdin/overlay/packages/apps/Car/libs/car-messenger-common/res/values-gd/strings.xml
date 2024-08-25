@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <plurals name="notification_new_message">
+        <item quantity="one">%d teachdaireachd ùr</item>
+        <item quantity="two">%d theachdaireachd ùr</item>
+        <item quantity="few">%d teachdaireachdan ùra</item>
+        <item quantity="other">%d teachdaireachd ùr</item>
+    </plurals>
+    <string name="action_play">Cluich</string>
+    <string name="action_mark_as_read">Comharraich gun deach a leughadh</string>
+    <string name="action_repeat">Ath-dhèan</string>
+    <string name="action_reply">Freagair</string>
+    <string name="action_stop">Cuir stad air</string>
+    <string name="action_close_messages">Dùin</string>
+    <string name="auto_reply_failed_message">Cha b’ urrainn dhuinn an fhreagairt a chur. Feuch ris a-rithist.</string>
+    <string name="auto_reply_device_disconnected">Cha b’ urrainn dhuinn an fhreagairt a chur. Chan eil an t-uidheam ceangailte.
+    </string>
+    <string name="tts_sender_says">Tha %s ag ràdh</string>
+    <string name="tts_failed_toast">Cha ghabh an teachdaireachd a leughadh os àrd.</string>
+    <string name="reply_message_display_template">“%s”</string>
+    <string name="message_sent_notice">Chaidh freagairt a chur gu %s</string>
+    <string name="name_not_available">Chan eil an t-ainm ri fhaighinn</string>
+</resources>

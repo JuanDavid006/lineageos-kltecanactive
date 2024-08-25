@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assist_action_play_label">Riprodûs</string>
+    <string name="action_mute_short">Cidine</string>
+    <string name="action_mute_long">Cidine conversazion</string>
+    <string name="action_unmute_short">Ative il sun</string>
+    <string name="action_unmute_long">Ative il sun ae conversazion</string>
+    <string name="action_canned_reply">\"In chest moment o stoi vuidant.\"</string>
+    <string name="canned_reply_message">In chest moment o stoi vuidant.</string>
+    <string name="toast_message_sent_success">Messaç mandât cun scès.</string>
+    <string name="notification_service_label">Servizi di scolte des notifichis de auto</string>
+    <string name="notifications">Centri notifichis</string>
+    <string name="clear_all">Nete dut</string>
+    <string name="ellipsized_string">…</string>
+    <string name="show_more">Mostre altri</string>
+    <string name="notification_header">Notifichis</string>
+    <string name="empty_notification_header">Nissune notifiche</string>
+    <string name="show_less">Mostre di mancul</string>
+    <string name="show_count_more">Mostre ancjemò <xliff:g id="count">%d</xliff:g></string>
+    <string name="message_unshown_count"> ancjemò +<xliff:g id="count">%d</xliff:g></string>
+    <plurals name="restricted_message_text">
+        <item quantity="one">1 gnûf messaç</item>
+        <item quantity="other"><xliff:g id="count" example="3">%d</xliff:g> gnûfs messaçs</item>
+    </plurals>
+</resources>
